@@ -74,7 +74,7 @@ python train_net.py
 
 ### 结果验证
 
-可以通过以下链接[链接: https://pan.baidu.com/s/13ZRCwLaZMUr_RGS3ii5oQg?pwd=liph 提取码: liph]快速获取ERNet模型于GC10-DET在5-shot设置中的预训练参数，下载后，保存在路径：./tools/checkpoints，然后通过以下命令进行结果验证：
+可以通过以下链接[链接: https://pan.baidu.com/s/13ZRCwLaZMUr_RGS3ii5oQg?pwd=liph 提取码: liph]快速获取ERNet模型于GC10-DET在5-shot，10-shot和30-shot实验设置下的预训练参数，下载后，保存在路径：./tools/checkpoints，然后通过以下命令进行结果验证：
 
 ```shell
 cd ./tools/
